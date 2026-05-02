@@ -1,28 +1,57 @@
 # 👋 Hi, I'm Srihari
 
-🚀 Agentic AI Automation | Automation Consultant | Playwright | Selenium | API Testing | CI/CD | 
+🚀 Automation & AI Testing Consultant | Lead SDET (13+ years)
 
-## 💼 What I Do
-I help teams:
-- Reduce flaky tests in CI pipelines
-- Improve test execution speed using parallel runs
-- Integrate performance metrics (Web Vitals) into automation
+Helping teams:
+→ Reduce flaky tests  
+→ Speed up CI pipelines  
+→ Adopt AI-driven QA systems  
 
-## 🔥 My Expertise
-- UI Automation: Playwright, Selenium
-- API Testing: Pytest, Requests
-- CI/CD: GitHub Actions, Jenkins
-- Performance Monitoring: Web Vitals (LCP, CLS, FID)
+---
 
-## 📌 Featured Projects
-- 🔗 Playwright Web Vitals Framework → [https://github.com/Srihari88/playwright-web-vitals]
-- 🔗 Scalable Automation Framework → [https://github.com/Srihari88/End-end-automation-framework]
-- 🔗 Playwright AI Scalable reports -> [https://github.com/Srihari88/playwright-fire-reports]
+## 💡 Problems I Solve
 
-## 📊 What Makes Me Different
-- Combine automation + performance testing
-- Focus on real-world CI/CD issues
-- Build scalable and maintainable frameworks
+Most teams struggle with:
+- Flaky automation delaying releases  
+- Slow regression cycles  
+- High test maintenance cost  
+- No performance visibility in CI  
 
-## 🤝 Let's Connect
-- LinkedIn: [https://www.linkedin.com/in/srihari-naidu-sdet/]
+---
+
+## ⚡ What I Do
+
+✔ Build scalable automation frameworks (Playwright, Python)  
+✔ Reduce execution time using parallel runs (up to 60%)  
+✔ Integrate Web Vitals (LCP, CLS) into automation  
+✔ Auto-generate test cases using LLMs  
+✔ Design AI/LLM evaluation pipelines  
+
+---
+
+## 🔥 Featured Work
+
+🚀 **Playwright Web Vitals Framework**  
+https://github.com/Srihari88/playwright-web-vitals  
+→ Detect performance regressions before production  
+
+⚙️ **Scalable Automation Framework**  
+https://github.com/Srihari88/End-end-automation-framework  
+→ CI/CD-ready, parallel execution  
+
+🤖 **AI Automation Reporting System**  
+https://github.com/Srihari88/playwright-fire-reports  
+→ Faster debugging & intelligent insights  
+
+---
+
+## 🧠 Why Me?
+
+- Automation + AI + Performance (rare combination)  
+- Built frameworks from scratch across domains  
+- Focus on real CI/CD challenges (not just scripts)  
+---
+
+## 🤝 Connect
+
+LinkedIn: https://www.linkedin.com/in/srihari-naidu-sdet/
