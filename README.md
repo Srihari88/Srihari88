@@ -9,6 +9,15 @@ Helping teams:
 
 ---
 
+## Techinical Stack 
+
+![PromptFoo](https://img.shields.io/badge/PromptFoo-AI_Testing-orange?style=flat-square)
+![DeepEval](https://img.shields.io/badge/DeepEval-LLM_Evaluation-orange?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-AI_Model-blue?style=flat-square&logo=google)
+![Claude](https://img.shields.io/badge/Claude-AI_Model-black?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-yellow?style=flat-square)
+
 ## 💡 Problems I Solve
 
 Most teams struggle with:
