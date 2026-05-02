@@ -17,7 +17,7 @@ I help teams:
 ## 📌 Featured Projects
 - 🔗 Playwright Web Vitals Framework → [https://github.com/Srihari88/playwright-web-vitals]
 - 🔗 Scalable Automation Framework → [https://github.com/Srihari88/End-end-automation-framework]
-- 🔗 API Testing Framework
+- 🔗 Playwright AI Scalable reports -> [https://github.com/Srihari88/playwright-fire-reports]
 
 ## 📊 What Makes Me Different
 - Combine automation + performance testing
