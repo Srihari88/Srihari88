@@ -16,9 +16,21 @@ Helping teams:
 
 ![PromptFoo](https://img.shields.io/badge/PromptFoo-AI_Testing-orange?style=flat-square)
 ![DeepEval](https://img.shields.io/badge/DeepEval-LLM_Evaluation-orange?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation_Framework-orange?style=flat-square)
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-AI_Model-blue?style=flat-square&logo=google)
 ![Claude](https://img.shields.io/badge/Claude-AI_Model-black?style=flat-square)
+
+![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework-green?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Workflows-green?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-Observability-blue?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-LLM_Observability-purple?style=flat-square)
+
+![Evals](https://img.shields.io/badge/Evals-LLM_Testing-yellow?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Autonomous_Systems-red?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-AI_Systems-blue?style=flat-square)
+
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-yellow?style=flat-square)
 
 ⚙️ Automation & QA
