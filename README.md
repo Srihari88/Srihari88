@@ -21,6 +21,7 @@ Helping teams:
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-yellow?style=flat-square)
 
 ⚙️ Automation & QA
+
 ![Playwright](https://img.shields.io/badge/Playwright-Test_Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-Testing-17202C?style=flat-square&logo=cypress&logoColor=white)
@@ -30,12 +31,14 @@ Helping teams:
 ![Appium](https://img.shields.io/badge/Appium-Mobile_Testing-472D30?style=flat-square)
 
 🔌 API Testing
+
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Requests](https://img.shields.io/badge/Python_Requests-API-blue?style=flat-square)
 ![RestAssured](https://img.shields.io/badge/RestAssured-Java_API-green?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Programming-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -49,16 +52,19 @@ Helping teams:
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI-CD-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 📊 Performance Testing
+
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-Performance-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 ![SiteSpeed](https://img.shields.io/badge/SiteSpeed-Performance-blue?style=flat-square)
 ![New Relic](https://img.shields.io/badge/NewRelic-Monitoring-008C99?style=flat-square)
 ![Web Vitals](https://img.shields.io/badge/Web_Vitals-LCP_CLS_FID-green?style=flat-square)
 
 🌐 Cross-Browser Testing
+
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-Testing-FF6C37?style=flat-square)
 ![LambdaTest](https://img.shields.io/badge/LambdaTest-CrossBrowser-purple?style=flat-square)
 
 📈 Test Management
+
 ![JIRA](https://img.shields.io/badge/JIRA-Project_Management-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-Test_Management-65C179?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=flat-square)
