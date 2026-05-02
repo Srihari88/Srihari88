@@ -3,11 +3,12 @@
 🚀 Automation & AI Testing Consultant | Lead SDET (13+ years)
 
 Helping teams:
+
 → Reduce flaky tests  
 → Speed up CI pipelines  
 → Adopt AI-driven QA systems  
 
----
+-------------------------
 
 ## 🛠️ Tech Arsenal
 
